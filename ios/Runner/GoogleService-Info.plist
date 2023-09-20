@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>797481843131-iefotipaje2qchj2gm3tbendubhu0qqh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.797481843131-iefotipaje2qchj2gm3tbendubhu0qqh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAGpVD1ej7txHqoI9pjWtY9c2jtp-ldMzA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>797481843131</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bookabite.bookABiteUser</string>
+	<key>PROJECT_ID</key>
+	<string>book-a-bite-practice</string>
+	<key>STORAGE_BUCKET</key>
+	<string>book-a-bite-practice.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:797481843131:ios:d3dd9fe56aeeda0dcb6c9e</string>
+</dict>
+</plist>
